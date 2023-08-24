@@ -5,7 +5,7 @@
 .card-top-container {
     text-align: center;
     padding: 16px 0px;
-    border-bottom: 1px solid #e1e1e1 ;
+    border-bottom: 1px solid #e1e1e1;
 }
 
 .card-top-container img {
@@ -19,6 +19,5 @@
 
 .card-bottom-container h6 {
     font-size: 18px;
-    color: #263238;
-    ;
+    color:#263238;
 }
